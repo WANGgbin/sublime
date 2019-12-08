@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Git",
+		"Package Control",
+		"Terminal",
+		"Theme - Afterglow"
+	]
+}
